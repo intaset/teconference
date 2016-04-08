@@ -1,4 +1,4 @@
--moz-viewport { width: device-width; scale: 1; }
+@-moz-viewport { width: device-width; scale: 1; }
 @-ms-viewport { width: device-width; scale: 1; }
 @-o-viewport { width: device-width; scale: 1; }
 @-webkit-viewport { width: device-width; scale: 1; }
@@ -232,6 +232,99 @@ th {
   font-size: 1.5em;
   vertical-align: middle;
   font-family: 'Lato', sans-serif;
+}
+
+.anchor{
+  display: block;
+  height: 114px; /*same height as header*/
+  margin-top: -114px; /*same height as header*/
+  visibility: hidden;
+}
+
+.keynotes {
+	border-bottom: #232A38 1px solid;
+	text-align: left;
+}
+
+.keynotes div {
+	padding-bottom: 0;
+}
+
+.keynotes a {
+	color: #992429;
+	text-decoration: none;
+	border-bottom: 1px solid;
+	transition: all 0.3s linear;
+}
+
+.keynotes a:hover {
+	border-bottom: 2px solid;
+	font-weight: 600;
+}
+
+.keynotes .body {
+	padding-bottom: 0;
+	padding-top: 0.7em;
+	text-align: left;
+}
+
+.keynotes .unit-spacer {
+	padding: 2em 1em;
+}
+
+.keynote-info {
+	padding-top: 1em;
+}
+
+.keynote-info .body {
+	text-indent: 2em;
+	padding-bottom: 0;
+}
+
+.keynote-info .keynote-topic {
+	padding: 1em 0;
+	margin: 0;
+	font-weight: 100;
+}
+
+.keynote-img {
+	padding: 0 0 0 1em;
+}
+
+.pdf {
+	color: #992429;
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}
+
+.pdf:hover {
+	color: #232A38;
+}
+
+.pdf img {
+	padding-right: 0.5em;
+}
+
+.top {
+	text-align: right;
+}
+
+.keynote-info .top a {
+	color: #232A38;
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+}
+
+.keynote-info .top a:hover {
+	color: #992429;
+}
+
+.border {
+	border-bottom: #232A38 1px solid;
 }
 
 /* HEADER & NAVIGATION */
@@ -782,6 +875,7 @@ input[type="reset"]:hover, input[type="submit"]:hover {
 
 .bottom-border {
 	border-bottom: 1px solid #232A38;
+	padding-top: 1em;
 }
 
 /* Contact Us */
@@ -1286,8 +1380,4 @@ footer form {
 	.cbp-af-header nav a {
   font-size: 1em!important;
 }
-}
-
-/* 1920 PX */
-@media only screen and (min-width: 119em) {
 }
