@@ -198,7 +198,9 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important;">ICTE'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>. For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
     </div>
 
@@ -224,7 +226,9 @@ mail($your_email,$your_subject,$message,$your_headers);
         <gcse:searchbox-only resultsUrl="../results"></gcse:searchbox-only>
   </div>
 </div>
-</div>
+</div><br>
+
+<p class="body" style="text-align:center!important; color: #FFF!important;">ICTE'17 is part of the <b>2<sup>nd</sup> World Congress on Civil, Structural, and Environmental Engineering (CSEE'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://cseecongress.com/" class="body-link">www.cseecongress.com</a>.</p>
         </div>
         </div> 
       </div>
