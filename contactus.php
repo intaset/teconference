@@ -195,7 +195,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on<br>Traffic Engineering (ICTE'17)</h1>
-          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
+          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -223,7 +223,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>2<sup>nd</sup> International Conference on<br>Traffic Engineering (ICTE'17)</h1>
-          <p class="subhead">April 3 - 4, 2017 | Barcelona, Spain</p>
+          <p class="subhead">April 2 - 4, 2017 | Barcelona, Spain</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -253,7 +253,18 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICTE 2017:</p>
-      <p class="body">ICTE 2017 will  be held in Barcelona, Spain on April 3 - 4, 2017 at the Alimara Hotel Barcelona.</p>
+      <p class="body">ICTE 2017 will  be held in Barcelona, Spain on April 2 - 4, 2017 at the Alimara Hotel Barcelona.</p>
+
+    <p class="bold">CSEE'17 Workshop</p>
+    <p class="body">As per popular request, the organizing committee has decided to extend the CSEE'17 congress to three days (now April 2 - 4, 2017). The new high-level schedule is as follows:</p>
+      <ul>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
+      </ul>
+    <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here.</a></p>
+    <p class="body">More information to follow; we greatly appreciate your patience!</p>
+
 
       <p class="bold">Poster Board Dimensions:</p>
       <p class="body">Authors presenting via poster boards are to be informed that poster boards are 130 cm height and 95 cm width.</p>
