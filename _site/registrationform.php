@@ -44,7 +44,7 @@ $message = 'Dear Colleague,
 Thank you for registering for ICTE 2018. If you have requested any official letters, please allow up to 5 business days to receive your documents.
 
 If you are an author, please make sure to send us the final version of your paper and a signed copyright form via email to info@teconference.com. You can find the copyright form here: www.teconference.com/papers. Please note that failing to do so may result in an unsuccessful process of your registration.
-To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: http://teconference.com/accommodation/#0
+To reserve a room with a DISCOUNTED price, please fill out the provided booking form here: http://teconference.com/accommodation/#Novotel
 
 You can find your registration details below. If there are any errors in the information you have provided, please write an email to us at registration@teconference.com mentioning the correct information. Please note that you SHOULD NOT refill the form.
 
@@ -244,7 +244,7 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICTE 2018:</p>
-      <p class="body">ICTE 2018 will  be held in Barcelona, Spain on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
+      <p class="body">ICTE 2018 will  be held in Budapest, Hungary on April 8 - 10, 2018 at the Novotel Budapest Centrum.</p>
 
 
      <p class="bold">CSEE'18 Workshop</p>
@@ -315,7 +315,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 10, 2017</div> --> Sep. 28, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 12, 2017
   </div>
 </div>
 
@@ -329,7 +329,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    <!-- <div class="past">Feb. 10, 2017</div> --> Oct. 26, 2017
+    <!-- <div class="past">Feb. 10, 2017</div> --> Nov. 2, 2017
   </div>
 </div>
 
