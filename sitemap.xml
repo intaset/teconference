@@ -1,114 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-   <url>
-
-      <loc>http://www.teconference.com/index.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-  <url>
-
-      <loc>http://www.teconference.com/papers.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/program.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/dates.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/registration.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/committee.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/keynote.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/sponsor.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/venue.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/accommodation.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.teconference.com/symposium.html</loc>
-
-      <lastmod>2017-04-08</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
+<url>
+   <loc>http://2019.teconference.com/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/past-events/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/papers/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/program/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/dates/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/registration/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/committee/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/keynote/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/venue/</loc>
+   <lastmod>2018-02-26T19:58:16+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/accommodation/</loc>
+   <lastmod>2018-02-26T19:57:59+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/sponsor/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/symposium/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/past-events/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/terms/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/sitemap/</loc>
+   <lastmod>2018-02-09T21:20:00+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/ICTE19_Paper_Template.docx</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/ICTE19_Extended_Abstract.docx</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/ICTE19_CopyrightForm.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/papers/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/program/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/dates/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/registration/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/committee/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/keynote/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/venue/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/accommodation/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/sponsor/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/symposium/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/terms/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/sitemap/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.5120</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/banktobank/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/moneyorder/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/paypal/</loc>
+   <lastmod>2018-02-09T21:20:01+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.4096</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/banktobank/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/moneyorder/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
+<url>
+   <loc>http://2019.teconference.com/paypal/CSEE19_CFP_Flyer.pdf</loc>
+   <lastmod>2018-03-05T19:45:22+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.3277</priority>
+</url>
 </urlset>
